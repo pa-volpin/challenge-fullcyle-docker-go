@@ -21,3 +21,6 @@ Suba o projeto em um repositório Git remoto e coloque o link da imagem que subi
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
+
+## IMAGE LINK DOCKER HUB
+https://hub.docker.com/repository/docker/pavolpin/fullcycle/general
